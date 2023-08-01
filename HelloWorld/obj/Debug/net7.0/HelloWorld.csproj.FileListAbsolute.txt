@@ -3,3 +3,13 @@ E:\code\Module-I\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorCo
 E:\code\Module-I\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
 E:\code\Module-I\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
 E:\code\Module-I\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\code\Module-I\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+E:\code\Module-I\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+E:\code\Module-I\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+E:\code\Module-I\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+E:\code\Module-I\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+E:\code\Module-I\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+E:\code\Module-I\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+E:\code\Module-I\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+E:\code\Module-I\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+E:\code\Module-I\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
