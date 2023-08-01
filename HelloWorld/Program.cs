@@ -2,7 +2,10 @@
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Hello Max!!!");
+
+        string Hello = "Hello World";
+        Console.WriteLine(Hello);
+
     }
 }
 
